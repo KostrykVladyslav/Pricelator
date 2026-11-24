@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pricelator</string>
+
+    <!-- Common -->
+    <string name="back">Atrás</string>
+    <string name="close">Cerrar</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Configuración</string>
+    <string name="language_format">Idioma: %s</string>
+    <string name="theme_format">Tema: %s</string>
+    <string name="currencies">Monedas</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="terms_conditions">Términos y condiciones</string>
+    <string name="version_format">Versión: %s</string>
+    <string name="by_company">por </string>
+
+    <!-- Theme Selection -->
+    <string name="theme">Tema</string>
+    <string name="theme_system_default">Predeterminado del sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+
+    <!-- Language Selection -->
+    <string name="language">Idioma</string>
+
+    <!-- Currencies Screen -->
+    <string name="default_from">Predeterminado desde:</string>
+    <string name="default_to">Predeterminado a:</string>
+    <string name="update_currencies">Actualizar monedas</string>
+    <string name="last_update">Última actualización: %s</string>
+    <string name="refresh">Actualizar</string>
+    <string name="failed_to_update_currencies">Error al actualizar monedas</string>
+
+    <!-- Camera Screen -->
+    <string name="scanning">Escaneando...</string>
+    <string name="request_permission_title">Permiso de Cámara Requerido</string>
+    <string name="request_permission_description">Pricelator necesita acceso a la cámara para escanear etiquetas de precios.</string>
+    <string name="request_permission_description_rationale">Se requiere acceso a la cámara para escanear y reconocer etiquetas de precios. Sin este permiso, la aplicación no puede funcionar correctamente.</string>
+    <string name="grant_access">Conceder Acceso</string>
+    <string name="update_on">Actualizado el</string>
+
+    <!-- Onboarding Screen -->
+    <string name="onboarding_first_step_title">Escanear Etiquetas de Precios</string>
+    <string name="onboarding_first_step_description">Apunta tu cámara a cualquier etiqueta de precio para escanear y reconocer el precio instantáneamente</string>
+    <string name="onboarding_second_step_title">Convertir Monedas</string>
+    <string name="onboarding_second_step_description">Convierte automáticamente precios a tu moneda preferida con tipos de cambio actualizados</string>
+    <string name="onboarding_third_step_title">Ahorrar Tiempo</string>
+    <string name="onboarding_third_step_description">Toma decisiones de compra rápidas con comparaciones de precios instantáneas</string>
+    <string name="scan">Escanear</string>
+    <string name="save">Guardar</string>
+    <string name="filter">Filtrar</string>
+</resources>

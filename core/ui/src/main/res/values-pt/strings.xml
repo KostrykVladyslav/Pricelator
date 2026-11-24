@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pricelator</string>
+
+    <!-- Common -->
+    <string name="back">Voltar</string>
+    <string name="close">Fechar</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Configurações</string>
+    <string name="language_format">Idioma: %s</string>
+    <string name="theme_format">Tema: %s</string>
+    <string name="currencies">Moedas</string>
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="terms_conditions">Termos e condições</string>
+    <string name="version_format">Versão: %s</string>
+    <string name="by_company">por </string>
+
+    <!-- Theme Selection -->
+    <string name="theme">Tema</string>
+    <string name="theme_system_default">Padrão do sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Escuro</string>
+
+    <!-- Language Selection -->
+    <string name="language">Idioma</string>
+
+    <!-- Currencies Screen -->
+    <string name="default_from">Padrão de:</string>
+    <string name="default_to">Padrão para:</string>
+    <string name="update_currencies">Atualizar moedas</string>
+    <string name="last_update">Última atualização: %s</string>
+    <string name="refresh">Atualizar</string>
+    <string name="failed_to_update_currencies">Falha ao atualizar moedas</string>
+
+    <!-- Camera Screen -->
+    <string name="scanning">Digitalizando...</string>
+    <string name="request_permission_title">Permissão de Câmera Necessária</string>
+    <string name="request_permission_description">O Pricelator precisa de acesso à câmera para digitalizar etiquetas de preços.</string>
+    <string name="request_permission_description_rationale">O acesso à câmera é necessário para digitalizar e reconhecer etiquetas de preços. Sem esta permissão, o aplicativo não pode funcionar corretamente.</string>
+    <string name="grant_access">Conceder Acesso</string>
+    <string name="update_on">Atualizado em</string>
+
+    <!-- Onboarding Screen -->
+    <string name="onboarding_first_step_title">Digitalizar Etiquetas de Preços</string>
+    <string name="onboarding_first_step_description">Aponte sua câmera para qualquer etiqueta de preço para digitalizar e reconhecer o preço instantaneamente</string>
+    <string name="onboarding_second_step_title">Converter Moedas</string>
+    <string name="onboarding_second_step_description">Converta automaticamente preços para sua moeda preferida com taxas de câmbio atualizadas</string>
+    <string name="onboarding_third_step_title">Economizar Tempo</string>
+    <string name="onboarding_third_step_description">Tome decisões de compra rápidas com comparações de preços instantâneas</string>
+    <string name="scan">Digitalizar</string>
+    <string name="save">Salvar</string>
+    <string name="filter">Filtrar</string>
+</resources>

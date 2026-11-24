@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pricelator</string>
+
+    <!-- Common -->
+    <string name="back">Indietro</string>
+    <string name="close">Chiudi</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Impostazioni</string>
+    <string name="language_format">Lingua: %s</string>
+    <string name="theme_format">Tema: %s</string>
+    <string name="currencies">Valute</string>
+    <string name="privacy_policy">Informativa sulla privacy</string>
+    <string name="terms_conditions">Termini e condizioni</string>
+    <string name="version_format">Versione: %s</string>
+    <string name="by_company">di </string>
+
+    <!-- Theme Selection -->
+    <string name="theme">Tema</string>
+    <string name="theme_system_default">Predefinito di sistema</string>
+    <string name="theme_light">Chiaro</string>
+    <string name="theme_dark">Scuro</string>
+
+    <!-- Language Selection -->
+    <string name="language">Lingua</string>
+
+    <!-- Currencies Screen -->
+    <string name="default_from">Predefinito da:</string>
+    <string name="default_to">Predefinito a:</string>
+    <string name="update_currencies">Aggiorna valute</string>
+    <string name="last_update">Ultimo aggiornamento: %s</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="failed_to_update_currencies">Impossibile aggiornare le valute</string>
+
+    <!-- Camera Screen -->
+    <string name="scanning">Scansione...</string>
+    <string name="request_permission_title">Autorizzazione Fotocamera Richiesta</string>
+    <string name="request_permission_description">Pricelator necessita dell\'accesso alla fotocamera per scansionare le etichette dei prezzi.</string>
+    <string name="request_permission_description_rationale">L\'accesso alla fotocamera è necessario per scansionare e riconoscere le etichette dei prezzi. Senza questa autorizzazione, l\'app non può funzionare correttamente.</string>
+    <string name="grant_access">Concedi Accesso</string>
+    <string name="update_on">Aggiornato il</string>
+
+    <!-- Onboarding Screen -->
+    <string name="onboarding_first_step_title">Scansiona Etichette dei Prezzi</string>
+    <string name="onboarding_first_step_description">Punta la fotocamera su qualsiasi etichetta di prezzo per scansionare e riconoscere istantaneamente il prezzo</string>
+    <string name="onboarding_second_step_title">Converti Valute</string>
+    <string name="onboarding_second_step_description">Converti automaticamente i prezzi nella tua valuta preferita con tassi di cambio aggiornati</string>
+    <string name="onboarding_third_step_title">Risparmia Tempo</string>
+    <string name="onboarding_third_step_description">Prendi decisioni di acquisto rapide con confronti di prezzi istantanei</string>
+    <string name="scan">Scansiona</string>
+    <string name="save">Salva</string>
+    <string name="filter">Filtra</string>
+</resources>

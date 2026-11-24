@@ -1,0 +1,26 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine config
+local.properties
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Secrets and signing
+/signing
+keystore.properties
+*.jks
+*.keystore
+
+# Web
+/web

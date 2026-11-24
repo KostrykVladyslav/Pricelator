@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pricelator</string>
+
+    <!-- Common -->
+    <string name="back">Zurück</string>
+    <string name="close">Schließen</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Einstellungen</string>
+    <string name="language_format">Sprache: %s</string>
+    <string name="theme_format">Design: %s</string>
+    <string name="currencies">Währungen</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="terms_conditions">Nutzungsbedingungen</string>
+    <string name="version_format">Version: %s</string>
+    <string name="by_company">von </string>
+
+    <!-- Theme Selection -->
+    <string name="theme">Design</string>
+    <string name="theme_system_default">Systemstandard</string>
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+
+    <!-- Language Selection -->
+    <string name="language">Sprache</string>
+
+    <!-- Currencies Screen -->
+    <string name="default_from">Standard von:</string>
+    <string name="default_to">Standard zu:</string>
+    <string name="update_currencies">Währungen aktualisieren</string>
+    <string name="last_update">Letzte Aktualisierung: %s</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="failed_to_update_currencies">Währungen konnten nicht aktualisiert werden</string>
+
+    <!-- Camera Screen -->
+    <string name="scanning">Wird gescannt...</string>
+    <string name="request_permission_title">Kameraberechtigung erforderlich</string>
+    <string name="request_permission_description">Pricelator benötigt Kamerazugriff zum Scannen von Preisschildern.</string>
+    <string name="request_permission_description_rationale">Kamerazugriff ist erforderlich, um Preisschilder zu scannen und zu erkennen. Ohne diese Berechtigung kann die App nicht ordnungsgemäß funktionieren.</string>
+    <string name="grant_access">Zugriff gewähren</string>
+    <string name="update_on">Aktualisiert am</string>
+
+    <!-- Onboarding Screen -->
+    <string name="onboarding_first_step_title">Preisschilder scannen</string>
+    <string name="onboarding_first_step_description">Richten Sie Ihre Kamera auf ein beliebiges Preisschild, um den Preis sofort zu scannen und zu erkennen</string>
+    <string name="onboarding_second_step_title">Währungen umrechnen</string>
+    <string name="onboarding_second_step_description">Konvertieren Sie Preise automatisch in Ihre bevorzugte Währung mit aktuellen Wechselkursen</string>
+    <string name="onboarding_third_step_title">Zeit sparen</string>
+    <string name="onboarding_third_step_description">Treffen Sie schnelle Kaufentscheidungen mit sofortigen Preisvergleichen</string>
+    <string name="scan">Scannen</string>
+    <string name="save">Speichern</string>
+    <string name="filter">Filtern</string>
+</resources>
